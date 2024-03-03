@@ -1,0 +1,83 @@
+ls,show what folders and files are inside current directory
+cd Day_1,go to Day_1 directory
+mkdir new_folder,create directory new_folder
+cat>ne­w_f­ile.txt,create a new empty text file
+cd ..,go to the parent directory
+ls>­new­_fi­le.txt,write the results of the ls command to a text file
+cp new_fi­le.txt copy_n­ew_­fil­e.txt,copy text from one file to another
+cp -r new_folder copy_n­ew_­folder,copy one directory to another directory
+rm copy_n­ew_­fil­e.txt,delete file
+rm -d copy_n­ew_­folder,delete directory
+man rm,show manual for rm command
+bash create_folders.sh,run bash script from file create_folders.sh
+dpkg -l,see the full list of utilities and applications installed on your system
+sudo apt install zip,install zip utility
+zip archive test1.txt test2.txt,archived two text files in “arhive.zip”
+zip -sf archive.zip,see what files are inside the archive “archive.zip”
+unzip archive.zip -d archive,unzip “archive.zip” to folder “archive”
+"find -name ""*.txt"" -type f",show all files in the current folder that have .txt in their names
+"find txt_files -name ""*.zip"" -type f | xargs rm -f",delete all zip archives from the txt_files folder
+cat file_names.txt | xargs -I filenamevar zip archive txt_files/filenamevar,create archives with names from file file_names.txt
+curl https://eduscol.education.fr/document/3366/download -o file.pdf,download file from link and save as file.pdf
+xargs -n 1 curl -O < urls.txt,download file from links from file urls.txt
+curl -X 'GET' \'https://app.netlas.io/api/responses/?q=lidl.com' \ -H 'accept: application/json',make GET-request to Netlas API
+curl -I https://sector035.nl,get only headers of GET-request
+curl -sIL https://rb.gy/899j50 | grep ^location,"make GET- request and cut out the string that starts with ""location"""
+grep -F gmail Day_6/example.txt,"search lines in the text file that include ""gmail"" (case sensitive)"
+grep -F -i gmail Day_6/example.txt,"search lines in the text file that include ""gmail"" (not case sensitive)"
+grep '[0-9]' example.txt,search the lines that contain at least one digit
+"grep -n ""gmail"" example.txt",add line number display to the  grep search result
+"grep -E -o -r ""[A-Za-z0-9][A-Za-z0-9._%+-]+@[A-Za-z0-9][A-Za-z0-9.-]+\.[A-Za-z]{2,6} "" example.txt",search the lines that contain emails
+"ls -R | grep "".txt""",search files contain .txt in it’s names in current directory and subdirectories
+"grep -v ""gmail"" example.txt",search lines that do NOT contain “gmail”
+"grep ""johnsmith"" example.txt | grep -v ""gmail""","search lines that contain ""johnsmith"" but do not contain ""gmail"""
+sed s/Happy/Merry/ sed_sample.txt,replace Happy to Merry in txt file
+sed s/[0-9]/no/g digits.txt,replace each digit in txt file to word “no”
+"sed -n 5,12p sed_sample.txt",extract 5 and 12 line from txt file
+"sed '1,30 s/Happy/Merry/g' sed_sample.txt",replace Happy to Merry in range of strings (1-30) in txt file
+"awk '{print NR,$0}' awk_sample.txt",print all text of file with line numbers
+"awk -F, '{print $1,$3}' awk_sample.txt",print 1 and 3 column of txt file
+awk '/^O/' awk_sample.txt,print lines that starts with O
+awk '/w$/' awk_sample.txt,print lines that end with w
+vim text_example.txt,open txt file in Vim text editor
+screen -S demo-screen,create new Screen session with name “demo-screen”
+screen -ls,get the list of active screen sessions
+screen -r demo-screen,return to a Screen session named demo-screen
+screen -XS demo-screen quit,delete Screen session named demo-screen
+cat file1.txt file2.txt >file3.txt,save contents of two files in one file
+cat *.txt >alltext/file4.txt,save contents of all .txt files in current directory in one file
+cut -c 1 cut_example.csv,print first character of each line
+uniq uniq_example.csv,remove duplicate lines from csv file
+sort cut_example.csv,sort lines in csv file in alphabetical order
+iconv -f UTF-8 -t ASCII//TRANSLIT utf8.txt acii.txt,convert txt file from UTF_8 to ASCII
+ffmpeg -i video_sample.flv -r 1 frame%d.png,convert the video into a set of frames in png format
+ffmpeg -i video_sample.flv -q:a 0 -map a audio.mp3,extract audio from video
+pocketsphinx_continuous -infile test_speech_16000.wav 2> pocketsphinx.log > speech_from_audio.txt,convert speech audio to text
+tesseract text.png text.txt,OCR text from image
+cat text.txt.txt | trans :fr,translate text from text file in French
+ocrmypdf pdf_for_ocr.pdf result.pdf,OCR text in PDF file and add searchable text layer to it
+pdftotext result.pdf result.txt,extract text from PDF to txt file
+fimages -png python_book.pdf extracted_images,extract images from PDF
+exiftool result.pdf,show metadata of PDF file
+exiftool result.pdf | grep ^Producer,show line that starts with Producer from PDF file’s metadata
+libreoffice --headless --convert-to txt example.docx,convert docx to txt
+libreoffice --headless --convert-to csv example.xlsx,convert xlsx to csv
+"echo ""Some text"" | pandoc -o result.docx",create docx file with text “Some text”
+pandoc -f html -t docx https://sector035.nl -o website.docx,save webpage from link to docx file
+jq '.people[0].firstName' json_test.json,extract the firstName value of the first people object (key) from JSON file
+jq '.people[].firstName' json_test.json,display the values of the firstName for all “people” keys from JSON file
+"xmlstarlet sel -t -m ""//TITLE"" -v . -n xml_sample.xml",display the contents of all  tags from XML file
+"csvgrep -d ',' -c 2 -m 'Murky' example.csv",all rows that contain “Murky” in column 2
+in2csv -k people json_test.json > test_json_to_csv.csv,convert csv file to json (with top level key people)
+"csvcut -c domain,port example.csv > cut_csv.csv",cut columns named “domain” and “port” from csv file
+katana -u sector035.nl,get urls from the website
+katana -list domains.txt>results.txt,get urls from list of websites
+nuclei -t juicyinfo-nuclei-templates/juicy_info/github.yaml -l results.txt >extracted_github_links.txt,extract Github links from html code of websites from links list
+nuclei -t juicyinfo-nuclei-templates/juicy_info/title.yaml -l results.txt >extracted_titles.txt,extract <title> tags from html code of websites from links list
+html2text example.html,extract text from html code
+pip install ddgr,install DDGR Python package from PyPi
+ddgr osint>search_osint.txt,search “osint” in DuckDuckGo and save results to txt file
+"netlas download ""http.body:*osint*"">netlas_results.txt",search “osint” in Netlas and save results to txt file
+whois github.com,get domain whois info
+dig google.com,get domain DNS info
+netlas host sector035.nl,get detailed info about domain from Netlas
