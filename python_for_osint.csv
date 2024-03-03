@@ -1,0 +1,20 @@
+subprocess,Run Linux utilities and scripts in different programming languages from Python code
+"maigret, sherlock",Check the existence of profiles with a certain nickname on different sites
+requests,Send HTTP requests 
+json,Parse JSON files
+csv,Parse CSV files
+duckduckgo_search,Search in DuckDuckGo
+BeautifulSoup,Scrape web pages
+re,Search regular expression matches in text
+os,Work with local files
+python-whois,Get domain WHOIS data
+dnspython,Get domain DNS data
+discosub,Find subdomains
+XlsxWriter,Create MS Excel files
+python-docx,Create MS Word files
+fpdf,Create PDF files
+matplotlib,Create data visualizations
+basemap,Create map visualizations
+wayback,Get data from archive.org
+datetime,Work with dates and time
+streamlit,Create simple web apps
