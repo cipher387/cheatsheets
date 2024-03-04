@@ -14,6 +14,8 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 
 ## Netlas CookBook
 
+https://github.com/netlas-io/netlas-cookbook
+
 https://twitter.com/cyb_detective/status/1764697275920474570
 
 https://github.com/cipher387/cheatsheets/blob/main/netlas_cookbook.csv
