@@ -1,0 +1,30 @@
+domain:*netlas* ,Search domains by keyword
+domain:*.github.com OR host:*.github.com,Search subdomains
+http.title:g*thub,Search in web pages titles by keyword
+http.body:netlas,Search in web pages texts by keyword
+http.meta:nazar,Search author name in meta tags
+cve.name:CVE-2022-22965,Search for sites with specific vulnerabilities
+"http.headers.server:""yawcam""",Search by server http header
+http.favicon.hash_sha256:ebaaed8ab7c21856f888117edaf342f6bc10335106ed907f95787b69878d9d9e,Search by favicon hash
+"ftp.banner:""Collado""",Search by FTP server's banners text
+mx:*.parklogic.com,Search by mail servers in DNS Netlas search
+ns:ns?.parklogic.com,Search by name servers in DNS Netlas search
+whois.related_nets.contacts.emails:sweetwater,Search person's nickname or email in WHOIS contacts
+http.title:sweetwater OR http.body:sweetwater,Search person's nickname or email in title and body of web page
+uri:*lidl.* AND http.body:pdf,"Search links to ""juicy info files"" on subdomains of the company's website"
+http.body:1?234?567?89?99 OR http.body:12345678999 OR http.body:1234?5678?999,Phone number mentions search
+http.contacts.address:kirby,Search location in <address> tag
+certificate.issuer.street_address:*mcgill*,Search for contact information in SSL certificates
+http.headers.www_authenticate:antMiner,Search crypto mining farms
+http.body:coinhive.min.js domain:*,Search for websites infected with cryptominers
+port:8333 cve:*,Search vulnerable Bitcoin nodes
+cve.description:weblogic AND cve.has_exploit:true,Search for sites with vulnerabilities that contain a certain word in their descriptions
+"tag.name:""adobe_coldfusion""",Search by tag name
+geo.city:London AND cve:*,Search vulnerable servers and devices near you (or any other location)
+uri:*login.php*,Search for login/admin panels
+http.body:mysql_fetch_array http.body:warning,Search for sites vulnerable to SQL injection
+http.headers.set_cookie:(regist_carNo=),Search by cookies
+smtp.banner:fornex.cloud,SMTP servers information gathering
+"a:""163.114.132.0/24""",Search for domains associated with a specific subnet
+http.title:Gophish http.title:Login,Search for servers with malicious software
+domain:facebook.com~,Search for domains that could potentially be used for phishing (fuzzy search)
