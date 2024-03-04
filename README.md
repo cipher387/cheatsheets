@@ -4,7 +4,10 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/cheatsheets"> 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fcheatsheets&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
      
-High quality and text versions cheat sheets from Cyber Detective Twitter
+High quality and text versions cheat sheets from Cyber Detective Twitter.
+
+
+<b>If you don't like the way the ant cheat sheet looks, just grab it;s text version in this repository and make your own</b>
 
 
 
