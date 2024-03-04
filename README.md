@@ -7,7 +7,7 @@
 High quality and text versions cheat sheets from Cyber Detective Twitter.
 
 
-<b>If you don't like the way the ant cheat sheet looks, just grab it;s text version in this repository and make your own</b>
+<b>If you don't like the way the ant cheat sheet looks, just grab it's text version in this repository and make your own</b>
 
 
 
