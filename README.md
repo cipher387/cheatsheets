@@ -10,6 +10,12 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 <b>If you don't like the way the ant cheat sheet looks, just grab it's text version in this repository and make your own</b>
 
 
+* [Netlas CooBook](#netlas-cookbook)
+* [Telegram OSINT](#telegram-osint)
+* [Awesome Hackers Search Engines](#awesome-hackers-search-engines)
+* [Python for OSINT](#python-for-osint)
+* [Linux for OSINT](#linux-for-osint)
+
 
 
 ## Netlas CookBook
