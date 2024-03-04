@@ -7,6 +7,16 @@
 High quality and text versions cheat sheets from Cyber Detective Twitter
 
 
+
+
+## Netlas CookBook
+
+https://twitter.com/cyb_detective/status/1764697275920474570
+
+https://github.com/cipher387/cheatsheets/blob/main/netlas_cookbook.csv
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/netlas_cookbook.png" width="100%" />
+
 ## Telegram OSINT
 
 https://twitter.com/cyb_detective/status/1764026938513891546
