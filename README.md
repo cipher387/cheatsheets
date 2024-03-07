@@ -11,7 +11,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 
 
 * [Netlas CookBook](#netlas-cookbook)
-* [Mini GEOINT](#telegram-osint)
+* [Mini GEOINT](#mini-geoint)
 * [Telegram OSINT](#telegram-osint)
 * [Awesome Hackers Search Engines](#awesome-hackers-search-engines)
 * [Python for OSINT](#python-for-osint)
