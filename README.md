@@ -16,6 +16,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Awesome Hackers Search Engines](#awesome-hackers-search-engines)
 * [Python for OSINT](#python-for-osint)
 * [Linux for OSINT](#linux-for-osint)
+* [Free AI Image tools](#ai-image)
 
 
 
@@ -77,7 +78,7 @@ https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.csv
 
 
 
-## AI Image
+## Free AI Image tools
 
 https://twitter.com/irina_tech_tips/status/1766120681199050780
 
