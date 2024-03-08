@@ -76,4 +76,14 @@ https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.csv
 <img src="https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.png" width="100%" />
 
 
+
+## AI Image
+
+https://twitter.com/irina_tech_tips/status/1766120681199050780
+
+https://github.com/cipher387/cheatsheets/blob/main/ai-image-editing.csv
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/ai-image.png" width="100%" />
+
+
 Thank you for following me! https://cybdetective.com
