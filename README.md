@@ -39,6 +39,15 @@ https://github.com/cipher387/cheatsheets/blob/main/mini_geoint.csv
 
 <img src="https://github.com/cipher387/cheatsheets/blob/main/mini_geoint.png" width="100%" />
 
+
+## Reverse Face Search
+
+https://twitter.com/cyb_detective/status/1766839525593030702
+
+https://github.com/cipher387/cheatsheets/blob/main/reverse_face_search.txt
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/reverse_search_face.png" width="100%" />
+
 ## Telegram OSINT
 
 https://twitter.com/cyb_detective/status/1764026938513891546
