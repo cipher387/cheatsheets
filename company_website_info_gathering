@@ -1,0 +1,33 @@
+Search subdomains
+Search in Netlas (app.netlas.io/responses/): host:*.domain.com 
+pentest-tools.com/information-gathering/find-subdomains-of-domain
+nmmapper.com/sys/tools/subdomainfinder/
+Subfinder (github.com/projectdiscovery/subfinder)
+Sublist3r (github.com/aboul3la/Sublist3r)
+Search possible related websites
+Search by organization name in Domain Whois Netlas search (app.netlas.io/whois/domains/)
+Search for sites that are served by company-owned mail servers in DNS Netlas search (app.netlas.io/domains/):  mx:*.domain.com 
+Search for sites that are served by company-owned name servers in DNS Netlas search (app.netlas.io/domains/): ns:ns?.domain.com
+Search by IDs of different services (Google Analytics, affiliate programs) in Netlas (app.netlas.io/responses/): http.body:UA-23870775
+Search by uploaded Favicon in Netlas (app.netlas.io/responses/)
+Getting a list of website's URLs
+Katana (github.com/projectdiscovery/katana)
+Waybackurls (github.com/tomnomnom/waybackurls)
+Waymore (github.com/xnl-h4ck3r/waymore)
+GoBuster (github.com/OJ/gobuster)
+Extract "Juicy Info" (social media links, emails, phone numbers, crypto wallets etc) from html pages (without downloading)
+Nuclei (github.com/projectdiscovery/nuclei)
+"""Juicy Info"" Nuclei templates (github.com/cipher387/juicyinfo-nuclei-templates)"
+Download files
+Curl (github.com/curl/curl)
+Wayback Machine Downloader (github.com/hartator/wayback-machine-downloader)
+Search in downloaded files
+Grep and alternatives (github.com/cipher387/awesome-grep)
+Extract metadata
+MetaDetective (github.com/franckferman/MetaDetective)
+ExifTool (exiftool.org)
+Extract information from PDF documents
+Ocrmypdf (github.com/ocrmypdf/OCRmyPDF)
+Pdfgrep (pdfgrep.org)
+Pdftotext (github.com/jalan/pdftotext)
+Pdfimages (xpdfreader.com/pdfimages-man.html)
