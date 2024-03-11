@@ -14,6 +14,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Mini GEOINT](#mini-geoint)
 * [Reverse Face Search](#reverse-face-search)
 * [Telegram OSINT](#telegram-osint)
+* [Company website info gathering](#company-website-info-gathering)
 * [Awesome Hackers Search Engines](#awesome-hackers-search-engines)
 * [Python for OSINT](#python-for-osint)
 * [Linux for OSINT](#linux-for-osint)
