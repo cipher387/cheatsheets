@@ -59,6 +59,15 @@ https://github.com/cipher387/cheatsheets/blob/main/telegram_osint.csv
 <img src="https://github.com/cipher387/cheatsheets/blob/main/telegram_osint.png" width="100%" />
 
 
+## Company website info gathering
+
+https://twitter.com/cyb_detective/status/1767304199690236074
+
+https://github.com/cipher387/cheatsheets/blob/main/company_website_info_gathering
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/company_website_info_gathering.png" width="100%" />
+
+
 ## Awesome Hackers Search Engines
 
 https://twitter.com/cyb_detective/status/1763984346355003586
