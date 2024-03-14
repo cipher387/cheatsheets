@@ -1,0 +1,76 @@
+Image search engines
+googlelens.imagesniper.eu (Google Reverse Image Search Fix)
+pimeyes.com
+bing.com/images/
+yandex.ru/images
+tineye.com
+numlookup.com/reverse-image-search
+image.baidu.com
+image.so.com
+ascii2d.net
+iqdb.org
+everypixel.com
+immerse.zone
+Face search engines
+usersearch.ai
+search4faces.com
+facecheck.id
+Detect geolocation by photo
+geospy.web.app 
+usersearch.ai 
+huggingface.co/spaces/ydshieh/Kosmos-2 
+picarta.ai 
+labs.tib.eu/geoestimation/ 
+Search websites by favicon
+app.netlas.io (by uploaded file)
+shodan.io
+FaviHunter (github.com/eremit4/favihunter)
+Search NFT by uploaded photo
+verify.numbersprotocol.io
+nyckel.com/nft-finder/
+Metadata
+jimpl.com
+metadata2go.com
+Steganography
+aperisolve.fr
+Image Forensic
+29a.ch/photo-forensics
+Perceptual Image Analysis Chrome Extension
+"If the image search does not yield results, try editing the picture (mirror, remove background, remove unnecessary objects, crop, etc.) and try again. "
+
+Change image with AI
+huggingface.co/spaces/editing-images/ledits
+Adobe Firefly
+Remove objects
+theinpaint.com
+Change direction of gaze (for face photos)
+hey-photo.com
+Mirror image
+resizepixel.com/mirror-image/
+Crop Image
+iloveimg.com/crop-image
+Remove background
+remove.bg
+removal.ai
+"Change brightness, contrast, color balance "
+lunapic.com/editor/
+AI Upscale
+huggingface.co/spaces/doevent/Face-Real-ESRGAN
+letsenhance.io
+AI Unblur
+app.remini.ai
+Recognize blur license plates
+platerecognizer.com
+Focus stacking
+focusstackingonline.com
+AutoStakkert
+Registax5
+Image Interpolation
+huggingface.co/spaces/NagaSaiAbhinay/UnCLIP_Image_Interpolation_Demo
+Generate full-length photos based on the face
+generated.photos/human-generator/
+Generate photo by sketch
+scribblediffusion.com
+Protect photo from reverse face search
+generated.photos/anonymizer
+hey-photo.com/tools/anonymize
