@@ -13,7 +13,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Netlas CookBook](#netlas-cookbook)
 * [Mini GEOINT](#mini-geoint)
 * [Reverse Face Search](#reverse-face-search)
-* [Reverse Face Search](#image-osint)
+* [Image OSINT](#image-osint)
 * [Telegram OSINT](#telegram-osint)
 * [Company website info gathering](#company-website-info-gathering)
 * [Awesome Hackers Search Engines](#awesome-hackers-search-engines)
