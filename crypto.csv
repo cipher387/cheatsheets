@@ -1,0 +1,26 @@
+Regular expressions for searching crypto info in documents
+Bitcoin Transaction Hash [a-fA-F0–9]{64}
+Bitcoin wallet address (bc1|[13])[a-zA-HJ-NP-Z0–9]{25,39}
+Ethereum (and other ERC-20 tokens) wallet address 0x[a-fA-F0–9]{40}$
+Universal (all words longer than 20 characters) [a-zA-Z0–9_.-]{20,}
+Blockchain explorers
+3xpl.com
+blockchain.com/explorer
+bitquery.io
+Wallet labels search
+walletexplorer.com
+walletlabels.xyz
+Scammers databases search/risk checking
+tools.cybertrace.com.au/walletscan/
+usersearch.ai (access to scamsearch.io)
+lite.crystalintelligence.com
+chainabuse.com
+Visualization of transactions between wallets
+breadcrumbs.app
+ethtective.com
+Stats
+coinmarketcap.com
+bitinfocharts.com
+Advanced tools lists
+github.com/OffcierCia/On-Chain-Investigations-Tools-List by @officer_cia
+github.com/aaarghhh/awesome_osint_criypto_web3_stuff
