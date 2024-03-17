@@ -11,11 +11,12 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 
 
 * [Netlas CookBook](#netlas-cookbook)
+* [Company website info gathering](#company-website-info-gathering)
 * [Mini GEOINT](#mini-geoint)
 * [Reverse Face Search](#reverse-face-search)
 * [Image OSINT](#image-osint)
 * [Telegram OSINT](#telegram-osint)
-* [Company website info gathering](#company-website-info-gathering)
+* [Crypto OSINT](#crypto-osint)
 * [Awesome Hackers Search Engines](#awesome-hackers-search-engines)
 * [Python for OSINT](#python-for-osint)
 * [Linux for OSINT](#linux-for-osint)
@@ -33,6 +34,16 @@ https://twitter.com/cyb_detective/status/1764697275920474570
 https://github.com/cipher387/cheatsheets/blob/main/netlas_cookbook.csv
 
 <img src="https://github.com/cipher387/cheatsheets/blob/main/netlas_cookbook.png" width="100%" />
+
+
+## Company website info gathering
+
+https://twitter.com/cyb_detective/status/1767304199690236074
+
+https://github.com/cipher387/cheatsheets/blob/main/company_website_info_gathering
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/company_website_info_gathering.png" width="100%" />
+
 
 
 ## Mini GEOINT
@@ -72,13 +83,16 @@ https://github.com/cipher387/cheatsheets/blob/main/telegram_osint.csv
 <img src="https://github.com/cipher387/cheatsheets/blob/main/telegram_osint.png" width="100%" />
 
 
-## Company website info gathering
 
-https://twitter.com/cyb_detective/status/1767304199690236074
 
-https://github.com/cipher387/cheatsheets/blob/main/company_website_info_gathering
+## Crypto OSINT
 
-<img src="https://github.com/cipher387/cheatsheets/blob/main/company_website_info_gathering.png" width="100%" />
+https://twitter.com/cyb_detective/status/1769363158328578157
+
+https://github.com/cipher387/cheatsheets/blob/main/crypto.csv
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/crypto.png" width="100%" />
+
 
 
 ## Awesome Hackers Search Engines
