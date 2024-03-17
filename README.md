@@ -21,6 +21,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Python for OSINT](#python-for-osint)
 * [Linux for OSINT](#linux-for-osint)
 * [Free AI Image tools](#ai-image)
+* [Nuclei 10 main flags](#nuclei-10-main-flags)
 
 
 
