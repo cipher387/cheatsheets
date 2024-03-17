@@ -124,6 +124,13 @@ https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.csv
 <img src="https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.png" width="100%" />
 
 
+## Nuclei 10 main flags
+
+
+https://twitter.com/cyb_detective/status/1632941742507925506
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/nuclei.png" width="100%" />
+
 
 ## Free AI Image tools
 
