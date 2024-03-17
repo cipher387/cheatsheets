@@ -130,6 +130,8 @@ https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.csv
 
 https://twitter.com/cyb_detective/status/1632941742507925506
 
+https://github.com/cipher387/cheatsheets/blob/main/nuclei.txt
+
 <img src="https://github.com/cipher387/cheatsheets/blob/main/nuclei.png" width="100%" />
 
 
