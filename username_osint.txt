@@ -1,0 +1,32 @@
+Username enumeration web apps
+whatsmyname.app
+usersearch.org
+Username enumeration command line tools
+Sherlock (https://github.com/sherlock-project/sherlock)
+Maigret (https://github.com/soxoj/maigret/)
+WhatsMyName (https://github.com/WebBreacher/WhatsMyName)
+Generate username variations by first/last name
+NAMINT (https://seintpl.github.io/NAMINT/)
+Username generation guide (https://github.com/soxoj/username-generation-guide)
+IP search engines queries
+Search in Shodan http.html:username
+Search in Shodan http.title:username
+Search in Netlas http.title:username
+Search in Netlas http.body:username
+Search in Netlas http.meta:username
+Search in Netlas uri:*username*
+Similar queries can also be made in Censys, ZoomEye, Onyphe, Fofa etc
+Google queries
+intitle:username
+inurl:username
+username filetype:xls
+username filetype:xlsx
+username filetype:sql
+Marple (https://github.com/soxoj/marple) - tool for automation Google inurl search
+Domain name search
+who.is
+Search in Netlas domain:*nickname*
+Mentions in social media
+social-searcher.com
+brandmentions.com (last 7 days free)
+Don't forget about internal social media search
