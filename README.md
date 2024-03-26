@@ -13,6 +13,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Netlas CookBook](#netlas-cookbook)
 * [Company website info gathering](#company-website-info-gathering)
 * [Mini GEOINT](#mini-geoint)
+* [Username OSINT](#username-osint)
 * [Reverse Face Search](#reverse-face-search)
 * [Image OSINT](#image-osint)
 * [Telegram OSINT](#telegram-osint)
@@ -54,6 +55,17 @@ https://twitter.com/cyb_detective/status/1765739340582285629
 https://github.com/cipher387/cheatsheets/blob/main/mini_geoint.csv
 
 <img src="https://github.com/cipher387/cheatsheets/blob/main/mini_geoint.png" width="100%" />
+
+
+
+
+## Username OSINT
+
+https://twitter.com/cyb_detective/status/1772418994055659852
+
+https://github.com/cipher387/cheatsheets/blob/main/username_osint.txt
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/username_osint.png" width="100%" />
 
 
 ## Reverse Face Search
