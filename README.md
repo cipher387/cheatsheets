@@ -65,7 +65,16 @@ https://twitter.com/cyb_detective/status/1772418994055659852
 
 https://github.com/cipher387/cheatsheets/blob/main/username_osint.txt
 
-<img src="https://github.com/cipher387/cheatsheets/blob/main/username_osint.png" width="100%" />
+<img src="https://github.com/cipher387/cheatsheets/blob/main/firstnamelastname.png" width="100%" />
+
+
+## Firs name/Last name OSINT
+
+https://twitter.com/cyb_detective/status/1775014908817531063
+
+https://github.com/cipher387/cheatsheets/blob/main/firstname_lastname.txt
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/mini_geoint.png" width="100%" />
 
 
 ## Reverse Face Search
