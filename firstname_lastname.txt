@@ -1,0 +1,35 @@
+Main types of country/city specific websites for search by first/last name 
+Civil records
+Court records
+Voter recors
+Ancestor databases
+Business registries
+License registries
+Debtors registries
+Real estate owners registries
+General rule: country register is better than world register. The city register is better than the country register. A neighbourhood register is better than a city register.
+Social media mentions universal search
+social-searcher.com
+Username by first/last name generation
+NAMINT (https://seintpl.github.io/NAMINT/)
+Username generation guide (https://github.com/soxoj/username-generation-guide)
+For username search use "USERNAME OSINT" cheat sheet
+First name variations
+https://nameberry.com/search?q=john
+Generate possible emails by first and last name
+https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8
+For email search use "EMAIL OSINT" cheat sheet
+!Using search engines don't forget to write names in the Latin alphabet and use differet first name variations!
+Google queries
+ intitle:first name intitle:last name
+ inurl:first name inurl:last name
+first name last name filetype:xls
+first name last name filetype:xlsx
+first name last name filetype:sql
+Marple (https://github.com/soxoj/marple) - tool for automation Google inurl search by first name/last name
+IP search engines queries
+Search in Netlas http.title:*first name*  http.title:*last name*
+Search in Netlas http.meta:*first name* http.meta:*last name*
+Search in Netlas ftp.banner:*first name* ftp.banner:*last name*
+domain:*first name* domain:*last name*
+Similar queries can also be made in Censys, ZoomEye, Onyphe, Fofa etc
