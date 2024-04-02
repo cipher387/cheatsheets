@@ -1,4 +1,4 @@
-# Cyber Detective Cheat sheets
+# Cyber Detective cheat sheets
 
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/cheatsheets"> 
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/cheatsheets"> 
