@@ -14,7 +14,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Company website info gathering](#company-website-info-gathering)
 * [Mini GEOINT](#mini-geoint)
 * [Username OSINT](#username-osint)
-* [First name/Last name OSINT](#firs-namelast-name-osint)
+* [First name/Last name OSINT](#first-namelast-name-osint)
 * [Reverse Face Search](#reverse-face-search)
 * [Image OSINT](#image-osint)
 * [Telegram OSINT](#telegram-osint)
