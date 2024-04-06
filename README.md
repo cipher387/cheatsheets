@@ -66,7 +66,7 @@ https://twitter.com/cyb_detective/status/1772418994055659852
 
 https://github.com/cipher387/cheatsheets/blob/main/username_osint.txt
 
-<img src="https://github.com/cipher387/cheatsheets/blob/main/firstnamelastname.png" width="100%" />
+<img src="https://github.com/cipher387/cheatsheets/blob/main/username_osint.png" width="100%" />
 
 
 ## First name/Last name OSINT
