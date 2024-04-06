@@ -75,7 +75,7 @@ https://twitter.com/cyb_detective/status/1775014908817531063
 
 https://github.com/cipher387/cheatsheets/blob/main/firstname_lastname.txt
 
-<img src="https://github.com/cipher387/cheatsheets/blob/main/firstlastname_osint.png" width="100%" />
+<img src="https://github.com/cipher387/cheatsheets/blob/main/firstnamelastname.png" width="100%" />
 
 
 ## Reverse Face Search
