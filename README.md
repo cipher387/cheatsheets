@@ -19,6 +19,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Image OSINT](#image-osint)
 * [Telegram OSINT](#telegram-osint)
 * [Crypto OSINT](#crypto-osint)
+* [Wayback Machine](#wayback-machine)
 * [Awesome Hackers Search Engines](#awesome-hackers-search-engines)
 * [Python for OSINT](#python-for-osint)
 * [Linux for OSINT](#linux-for-osint)
