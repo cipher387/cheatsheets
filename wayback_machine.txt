@@ -1,0 +1,29 @@
+Quick Archive.org viewer
+https://cybdetective.com/webarchiveviewer/
+Official Wayback Machine Extension 
+github.com/internetarchive/wayback-machine-webextension
+Wayback Machine CDX API
+Get a list of all saved copies of the page
+https://web.archive.org/cdx/search/cdx?url=osintme.com
+Get a list of all saved pages in a particular section of the website
+https://web.archive.org/cdx/search/cdx?url=https://www.osintme.com/index.php/category/*&collapse=urlkey
+Get a list of all urls of the site (with subdomains)
+https://web.archive.org/cdx/search/cdx?url=*.sector035.nl&collapse=urlkey
+Get a list of URL copies over a given period of time
+https://web.archive.org/cdx/search/cdx?url=https://www.osintme.com/index.php/category/*&to=2021&from=2020
+Get a list of all saved files of a certain type (on the domain)
+https://web.archive.org/cdx/search/cdx?url=sector035.nl/*&filter=mimetype:text/javascript&collapse=urlkey
+CLI tools
+GAU (https://github.com/lc/gau)
+Waymore (https://github.com/xnl-h4ck3r/waymore)
+WaybackUrls (https://github.com/tomnomnom/waybackurls)
+Katana (https://github.com/projectdiscovery/katana) -pss flag
+Wayback Keywords Search (https://github.com/lorenzoromani1983/wayback-keyword-search)
+Wayback PDF (https://github.com/Haax9/WaybackPDF)
+Alternatives
+archive.is
+Trove (Australian Web Archive)
+https://cybdetective.com/quickcacheandarhivesearch.html
+Netlas (look at "Using Netlas as an alternative to the WayBack Machine" in Netlas CookBook)
+Search Pastebin via archive.org
+https://web.archive.org/pastebin.com/search/keyword
