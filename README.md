@@ -118,6 +118,14 @@ https://github.com/cipher387/cheatsheets/blob/main/crypto.csv
 
 
 
+## Wayback Machine
+
+https://twitter.com/cyb_detective/status/1779126484159914165
+
+https://github.com/cipher387/cheatsheets/blob/main/wayback_machine.txt
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/wayback_machine.png" width="100%" />
+
 ## Awesome Hackers Search Engines
 
 https://twitter.com/cyb_detective/status/1763984346355003586
