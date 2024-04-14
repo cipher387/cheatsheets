@@ -16,6 +16,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Username OSINT](#username-osint)
 * [First name/Last name OSINT](#first-namelast-name-osint)
 * [Reverse Face Search](#reverse-face-search)
+* [Investigating the target website files](#investigating-the-target-website-files)
 * [Image OSINT](#image-osint)
 * [Telegram OSINT](#telegram-osint)
 * [Crypto OSINT](#crypto-osint)
