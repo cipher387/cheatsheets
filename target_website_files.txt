@@ -1,0 +1,31 @@
+WGET (https://github.com/mirror/wget)
+Download whole site
+wget -m domain.com
+Download list of URLs:
+wget -i ulrs_list.txt
+Download the directory recursively (with subdirectories) 
+wget -r --no-parent domain.com/dir
+Download the files to a special directory
+wget -P directory_name domain.com 
+Get list of files in directory (without downloading):
+wget --spider -r --no-parent domain.com/dir
+Download only PDF files from a specific directory:
+wget -r -A .pdf -e robots=off domain.com/dir
+Be careful when you use -e robots=off, then download files that the site owner has forbidden to download in robots.txt (he/she may not be happy).
+Download directory recursively and change URLs from absolute to relative (for local browsing):
+wget -r --no-parent --convert-links domain.com/dir 
+Add html extensions to the files when downloading so that they display correctly (for WordPress and other CMS):
+wget -r --no-parent --html-extension domain.com/dir
+KATANA (https://github.com/projectdiscovery/katana)
+Crawl website URLs:
+katana -u domain.com
+Crawl website URLs + get URLs from Wayback Machine, Common Crawl, Alien Vault:
+katana -u -pss domain.com
+Crawl website PDF URLs:
+katana -u -em pdf domain.com
+Tools to analyse downloaded files
+Find (https://www.gnu.org/software/findutils/)
+Grep and analogs (https://github.com/cipher387/awesome-grep)
+ExifTool (https://exiftool.org/)
+OCRmyPDF (https://github.com/ocrmypdf/OCRmyPDF)
+ Look for dozens other tools in "Linux for OSINT. 21 day course"
