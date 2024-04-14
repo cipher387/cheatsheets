@@ -88,6 +88,15 @@ https://github.com/cipher387/cheatsheets/blob/main/reverse_face_search.txt
 <img src="https://github.com/cipher387/cheatsheets/blob/main/reverse_search_face.png" width="100%" />
 
 
+## Investigating the target website files
+
+https://twitter.com/cyb_detective/status/1779439818822291523
+
+https://github.com/cipher387/cheatsheets/blob/main/target_website_files.txt
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/target_website_files.png" width="100%" />
+
+
 ## Image OSINT
 
 https://twitter.com/cyb_detective/status/1768283200797757851
