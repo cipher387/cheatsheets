@@ -1,0 +1,28 @@
+Checking registration/search accounts on various sites
+Holehe (https://github.com/megadose/holehe)
+Zehef (https://github.com/N0rz3/Zehef)
+osint.industries
+epieos.com
+Checking for data breaches
+breachdirectory.org
+Checking for scam databases
+scamsearch.io
+Gmail account information
+gmail-osint.activetk.jp
+GHunt (https://github.com/mxrch/GHunt)
+Search accounts + data breaches + scam + gmail info
+usersearch.ai
+Analysing email headers
+WhatMail (https://github.com/z0m31en7/WhatMail)
+Checking attachments files/links
+virustotal.com/gui/home/upload
+hybrid-analysis.com
+WHOIS data by email
+whoxy.com
+reversewhois.io
+Avatar information
+unavatar.io
+avatarapi.com
+All reverse image search tools (view IMAGE OSINT cheat sheet)
+.MBOX file analyze (file with an export of all mailbox data)
+MAILTO ANALYZER (https://github.com/soxoj/mailto_analyzer)
