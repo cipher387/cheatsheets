@@ -80,6 +80,16 @@ https://github.com/cipher387/cheatsheets/blob/main/firstname_lastname.txt
 <img src="https://github.com/cipher387/cheatsheets/blob/main/firstnamelastname.png" width="100%" />
 
 
+
+## Email OSINT
+
+https://twitter.com/cyb_detective/status/1781248581090922694
+
+https://github.com/cipher387/cheatsheets/blob/main/email_osint.txt
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/email_osint.png" width="100%" />
+
+
 ## Reverse Face Search
 
 https://twitter.com/cyb_detective/status/1766839525593030702
