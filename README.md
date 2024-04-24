@@ -19,6 +19,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Reverse Face Search](#reverse-face-search)
 * [Investigating the target website files](#investigating-the-target-website-files)
 * [Image OSINT](#image-osint)
+* [Video OSINT](#video-osint)
 * [Telegram OSINT](#telegram-osint)
 * [Crypto OSINT](#crypto-osint)
 * [Wayback Machine](#wayback-machine)
@@ -125,7 +126,7 @@ https://twitter.com/cyb_detective/status/1783249060922548584
 
 https://github.com/cipher387/cheatsheets/blob/main/video_osint.txt
 
-https://github.com/cipher387/cheatsheets/blob/main/video_osint.png
+<img src="https://github.com/cipher387/cheatsheets/blob/main/video_osint.png" width="100%" />
 
 
 
