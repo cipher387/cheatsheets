@@ -118,6 +118,16 @@ https://github.com/cipher387/cheatsheets/blob/main/image_osint.csv
 <img src="https://github.com/cipher387/cheatsheets/blob/main/image_osint.png" width="100%" />
 
 
+## Video OSINT
+
+
+https://twitter.com/cyb_detective/status/1783249060922548584
+
+https://github.com/cipher387/cheatsheets/blob/main/video_osint.txt
+
+https://github.com/cipher387/cheatsheets/blob/main/video_osint.png
+
+
 
 ## Telegram OSINT
 
