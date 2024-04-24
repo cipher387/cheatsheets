@@ -1,0 +1,23 @@
+Downloaders
+YouTube (en.y2mate.is/v35)
+Instagram, Facebook, Twitter, Tiktok (inflact.com/downloader)
+Other sites (save-from.net)
+CLI tool for YouTube and other sites (github.com/ytdl-org/youtube-dl)
+Watch video frame by frame (+ some free online video editing)
+veed.io
+kapwing.com
+Video to text
+youtubetranscript.com
+Whisper Web (huggingface.co/spaces/Xenova/whisper-web)
+Extract subtitles
+subtitlevideo.com
+downsub.com
+Extract video metadata
+metadata2go.com
+Exiftool (exiftool.org)
+Extract audio from video/save video frames as images
+Ffmpeg (ffmpeg.org)
+Merge blurred frames in one image
+focusstackingonline.com
+Use the IMAGE OSINT cheat sheet to analyse each frame
+Use REVERSE FACE SEARCH cheat sheet to analyse each individual face frame
