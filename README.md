@@ -20,6 +20,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Investigating the target website files](#investigating-the-target-website-files)
 * [Image OSINT](#image-osint)
 * [Video OSINT](#video-osint)
+* [YouTube OSINT](#youtube-osint)
 * [Telegram OSINT](#telegram-osint)
 * [Crypto OSINT](#crypto-osint)
 * [Wayback Machine](#wayback-machine)
