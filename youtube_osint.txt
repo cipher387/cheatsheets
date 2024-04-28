@@ -1,0 +1,32 @@
+Download video/extract audio
+savefrom.net
+Search tools
+YouTube built-in advanced search filters
+Subtitles and caption search (filmot.com)
+Reverse Order Search (github.com/yakisova41/return-youtube-comment-username)
+Unlisted Video (unlistedvideos.com)
+Comments
+YouTube comment downloader (github.com/egbertbouman/youtube-comment-downloader)
+Video Comment Search (ytcomment.kmcat.uk)
+Geotagged video on map
+YouTube Geofind (mattw.io/youtube-geofind)
+huntintel.io
+maps.video
+View video metadata
+YouTube Lookup (youtube-lookup.vercel.app)
+MW Metadata (mattw.io/youtube-metadata/)
+Song detection
+audiotag.info
+Transcribe
+Whisper Web (huggingface.co/spaces/Xenova/whisper-web)
+Trim/crop video
+youtubetrimmer.com
+Watch video frame by frame
+watchframebyframe.com
+Channel stats
+socialblade.com/youtube/
+Browser Extensions
+Improve YouTube
+Return YouTube Comment Username
+Subscriber Count On Comments
+Screnshoot YouTube
