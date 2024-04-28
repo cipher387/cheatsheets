@@ -130,6 +130,15 @@ https://github.com/cipher387/cheatsheets/blob/main/video_osint.txt
 
 
 
+## YouTube OSINT
+
+https://twitter.com/cyb_detective/status/1784555072841494569
+
+https://github.com/cipher387/cheatsheets/blob/main/youtube_osint.txt
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/youtube_osint.png" width="100%" />
+
+
 ## Telegram OSINT
 
 https://twitter.com/cyb_detective/status/1764026938513891546
