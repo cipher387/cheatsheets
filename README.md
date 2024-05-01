@@ -198,6 +198,19 @@ https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.csv
 <img src="https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.png" width="100%" />
 
 
+
+
+## Advanced search operators mini cheat sheet
+
+
+https://twitter.com/cyb_detective/status/1785628711699505293
+
+https://github.com/cipher387/cheatsheets/blob/main/advanced_search_operators.txt
+
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/advanced_search_operators.png" width="100%" />
+
+
 ## Nuclei 10 main flags
 
 
