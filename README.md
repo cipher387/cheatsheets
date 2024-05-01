@@ -27,6 +27,7 @@ High quality and text versions cheat sheets from Cyber Detective Twitter.
 * [Awesome Hackers Search Engines](#awesome-hackers-search-engines)
 * [Python for OSINT](#python-for-osint)
 * [Linux for OSINT](#linux-for-osint)
+* [Advanced search operators](#advanced-search-operators-mini-cheat-sheet)
 * [Free AI Image tools](#ai-image)
 * [Nuclei 10 main flags](#nuclei-10-main-flags)
 
